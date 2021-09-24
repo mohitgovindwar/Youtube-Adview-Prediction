@@ -9,9 +9,10 @@ To build a machine learning model which will predict youtube adview count based 
 
 ## Data Description
 
-* train.csv - the training set.
+* train.csv - the training set
 * test.csv - the test set
 * The file train.csv contains metrics and other details of about 15000 youtube videos. The metrics include number of views, likes, dislikes, comments and apart from that published date, duration and category are also included. The train.csv file also contains the metric number of adviews which is our target variable for prediction.
+* PredictedAdview.csv - output
 
 ## Attribute Information
 * 'vidid' : Unique Identification ID for each video
